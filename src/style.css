@@ -3,7 +3,7 @@
   color: #1c1c1c;
   background: #fafaf7;
 }
-body { margin: 0; }
+body { margin: 0; line-height: 1.6; }
 header, main, footer { max-width: 44rem; margin: 0 auto; padding: 1.25rem 1rem; }
 header { display: flex; justify-content: space-between; align-items: center; }
 header a { color: var(--accent); }
